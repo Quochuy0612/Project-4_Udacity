@@ -1,3 +1,10 @@
+Port: 8000
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
+
 (.devops) ubuntu@ip-172-31-72-17:~/project-ml-microservice-kubernetes$ ./run_kubernetes.sh
 Error from server (AlreadyExists): pods "microproject" already exists
 NAME           READY   STATUS    RESTARTS   AGE
